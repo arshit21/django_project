@@ -1,0 +1,10 @@
+asgiref==3.6.0
+crispy-bootstrap4==2022.1
+crispy-bootstrap5==0.7
+distlib==0.3.6
+Django==4.1.7
+django-crispy-forms==2.0
+filelock==3.9.0
+platformdirs==3.1.0
+sqlparse==0.4.3
+virtualenv==20.20.0
